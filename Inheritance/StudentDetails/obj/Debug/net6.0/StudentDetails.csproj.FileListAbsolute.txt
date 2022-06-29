@@ -1,0 +1,15 @@
+D:\OOPS\Inheritance\StudentDetails\bin\Debug\net6.0\StudentDetails.exe
+D:\OOPS\Inheritance\StudentDetails\bin\Debug\net6.0\StudentDetails.deps.json
+D:\OOPS\Inheritance\StudentDetails\bin\Debug\net6.0\StudentDetails.runtimeconfig.json
+D:\OOPS\Inheritance\StudentDetails\bin\Debug\net6.0\StudentDetails.dll
+D:\OOPS\Inheritance\StudentDetails\bin\Debug\net6.0\StudentDetails.pdb
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.csproj.AssemblyReference.cache
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.AssemblyInfoInputs.cache
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.AssemblyInfo.cs
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.csproj.CoreCompileInputs.cache
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.dll
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\refint\StudentDetails.dll
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.pdb
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\StudentDetails.genruntimeconfig.cache
+D:\OOPS\Inheritance\StudentDetails\obj\Debug\net6.0\ref\StudentDetails.dll

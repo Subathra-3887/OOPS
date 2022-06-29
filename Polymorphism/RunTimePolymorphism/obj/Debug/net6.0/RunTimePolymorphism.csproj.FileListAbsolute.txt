@@ -1,0 +1,15 @@
+D:\OOPS\Polymorphism\RunTimePolymorphism\bin\Debug\net6.0\RunTimePolymorphism.exe
+D:\OOPS\Polymorphism\RunTimePolymorphism\bin\Debug\net6.0\RunTimePolymorphism.deps.json
+D:\OOPS\Polymorphism\RunTimePolymorphism\bin\Debug\net6.0\RunTimePolymorphism.runtimeconfig.json
+D:\OOPS\Polymorphism\RunTimePolymorphism\bin\Debug\net6.0\RunTimePolymorphism.dll
+D:\OOPS\Polymorphism\RunTimePolymorphism\bin\Debug\net6.0\RunTimePolymorphism.pdb
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.csproj.AssemblyReference.cache
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.AssemblyInfoInputs.cache
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.AssemblyInfo.cs
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.csproj.CoreCompileInputs.cache
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.dll
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\refint\RunTimePolymorphism.dll
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.pdb
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\RunTimePolymorphism.genruntimeconfig.cache
+D:\OOPS\Polymorphism\RunTimePolymorphism\obj\Debug\net6.0\ref\RunTimePolymorphism.dll
